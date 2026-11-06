@@ -1,4 +1,4 @@
-### Hi there 👋
+### 25시, 컴퓨터 앞에서
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meeso0601)](https://solved.ac/meeso0601/)
 <!--
 **JJamJun/JJamJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
